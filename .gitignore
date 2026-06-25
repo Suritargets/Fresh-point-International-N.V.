@@ -1,0 +1,4 @@
+.claude/
+extract_logo.py
+patch_logo.py
+assets/logo_b64.txt
